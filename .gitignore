@@ -3,3 +3,7 @@ CounterStrikeSharp.API.dll
 **/bin
 .vscode/
 .vs/
+Publish/
+Properties/
+Release/
+*.user
